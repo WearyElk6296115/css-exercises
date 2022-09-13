@@ -1,0 +1,25 @@
+div{
+    font-family: sans-serif, verdana;
+    
+}
+
+#number2{
+    color: blue;
+    font-size: 36px;
+}
+
+#number4{
+    background-color: rgb(106, 210, 106);
+    font-size: 24px;
+    font-weight: 600;
+}
+
+
+p{
+    background-color: rgb(245, 154, 165);
+    font-size: 24px;
+    font-family: sans-serif, Verdana;
+}
+
+
+
