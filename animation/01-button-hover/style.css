@@ -6,6 +6,7 @@
   justify-content: center;
   align-items: center;
   font-family: Arial, sans-serif;
+  transform: scale(1);
 }
 
 button {
